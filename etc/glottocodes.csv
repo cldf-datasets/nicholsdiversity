@@ -1,0 +1,175 @@
+ID,Name,Ethnologuenamn,Glottocode
+1,Amharic,Amharic,amha1245
+2,Dizi,Dizi,dizi1235
+3,Fula,Nigerian Fulfulde,adam1253 / cent2018 / koro1298 / maas1239 / nige1253 / pula1262 / pula1263 / west2454
+4,Fur,Fur,furr1244 / somy1238
+5,Gbeya,Gbaya,boko1261 / gban1260 / gbay1281 / gbay1286 / gbay1287 / gbay1288 / nort2775 / sout2785 / suma1264
+6,Hausa,Hausa,haus1257
+7,lk,Ik,ikkk1242 / nyan1313
+8,!Kung,Kung-Ekoka,juho1239 / kung1260 / kung1261
+9,Logbara,Lugbara,lugb1240
+10,Luganda,Ganda,gaan1243 / gand1255
+11,Maasai,Maasai,masa1300
+12,Mandinka,Mandinka,mand1436
+13,Nama,Nama,cent2004 / nama1264 / nama1266 / tigo1236
+14,Nera,Nara,lala1268 / nara1262
+15,Orig,?????,tago1246 / tega1236
+16,Oromo,Oromo,bora1271 / east2652 / waat1238 / west2721
+17,Sandawe,Sandawe,sand1273
+18,Songhai,Songhay languages,humb1243 / koyr1240 / koyr1242
+19,Yoruba,Yoruba,ravu1237 / yoru1245
+20,Akkadian,n/a,akka1240
+21,Elamite,Elamite,elam1244
+22,Hittite,Hittite,hitt1242
+23,Hurrian,n/a,
+24,Sumerian,n/a,
+25,Abkhaz,Abkhaz,abkh1244
+26,Armenian,Armenian,homs1234 / nucl1235
+27,Basque,Basque,basq1248
+28,Chechen,Chechen,chec1245
+29,English,English,stan1293
+30,French,French,stan1290
+31,Georgian,Georgian,nucl1302
+32,Hungarian,Hungarian,hung1274
+33,Russian,Russian,russ1263
+34,Zyrian,Komi-Zyrian,komi1268 / komi1269
+35,Ainu,Ainu,ainu1240 / ainu1251
+36,Chukchi,Chukot,chuk1273
+37,Gilyak,Gilyak,gily1242 / sakh1247
+38,Japanese,Japanese,nucl1643
+39,Ket,Ket,kett1243 / selk1253
+40,Korean,Korean,kore1280
+41,Mongolian,Halh Mongolian,halh1238
+42,Nanai,Nanai,nana1257
+43,Tuva,Tuvin,soyo1234 / tuvi1240
+44,Yukagir,Yukaghir,nort2745 / sout2750
+45,Yurak,Nenets,nene1249
+46,Acehnese,Aceh,achi1257
+47,Burushaski,Burushaski,buru1296
+48,Gurung,Gurung,east2345 / guru1261 / lowa1242 / mana1288 / sout2715 / west2414
+49,Kota,Kota,bata1314 / diko1241 / kofa1236 / kota1263 / kota1274
+50,Mandarin,Mandarin Chinese,mand1415
+51,Miao,Hmong languages,cent1394 / cent2013 / east2370 / east2372 / geee1239 / hmon1263 / hmon1331 / hmon1332 / hmon1333 / larg1235 / nort1545 / nort1546 / nort2747 / nort2749 / sout1555 / sout1556 / sout2754 / sout2755 / sout2756 / west1507
+52,Nahali,Nihali,naha1261 / naha1262 / niha1238
+53,Temiar,Temiar,temi1246
+54,Thai,Thai,thai1261
+55,Waigali,Waigali,waig1243
+56,Abelam,Ambulas,ambu1247 / hang1263
+57,Alamblak,Alamblak,alam1246
+58,Amele,Amele,amel1241
+59,Arapesh,Arapesh languages,buki1249 / bumb1241
+60,Asmat,Asmat languages,casu1237 / cent2117 / cita1245 / nort2917 / tamn1235 / yaos1235
+61,Awtuw,Awtuw,awtu1239
+62,Barai,Barai,bara1377 / nami1258 / nucl1630
+63,Hua,Yagaria,hoaa1235 / huaa1248 / larg1235 / yaga1260
+64,Kâte,Kâte,kate1253 / yong1280
+65,Kewa,Kewa languages,east2516 / west2599
+66,Kiwai,Kiwai languages,kiwa1251 / nort2930 / sout2949
+67,Kobon,Kobon,kobo1249
+68,Kombai,Kombai,komb1274 / ndei1235 / wang1299
+69,Ku Waru,?????,
+70,Salt-Yui,Salt-Yui,salt1242
+71,Sentani,Sentani,nucl1632
+72,Suena,Suena,suen1241
+73,Tawala,Tawala,tawa1270 / tawa1275
+74,Telefol,Telefol,tele1256
+75,Vanimo,Vanimo,vani1248
+76,Waris,Waris,wari1266
+77,Yali,Yali languages,angg1239 / nini1235 / nips1240 / pass1247
+78,Yessan-Mayo,Yessan-Mayo,yess1239
+79,Yimas,Yimas,yima1243
+80,Djingili,Djingili,djin1251
+81,Dyirbal,Dyirbal,dyir1250
+82,Garawa,Garawa,gara1269 / tazn1238 / wany1247
+83,Gunwinggu,Gunwinggu,gunw1252 / mang1382
+84,Kuniyanti,Gooniyandi,goon1238
+85,Malak-Malak,Mullukmulluk,kamu1258 / madn1237 / mull1237
+86,Mangarayi,Mangarayi,mang1381
+87,Martuthunira,Martuyhunira,mart1255
+88,Maung,Maung,anta1253 / maun1240
+89,Ngiyambaa,Wangaaybuwan-Ngiyambaa,wang1291
+90,Nunggubuyu,Nunggubuyu,nung1290
+91,Nyigina,Nyigina,nyig1240
+92,Tiwi,Tiwi,tivv1240 / tiwi1244
+93,Unigarinjin,Ngarinyin,ngar1284 / wila1240
+94,Uradhi,Uradhi,atam1239 / urad1239 / wuth1237
+95,Warndarang,Wandarang,wand1263
+96,WembaWemba,?????,wemb1241 / west2443
+97,W. Desert,Wati languages??,
+98,Yukulta,Ganggalida,gang1267 / lard1243
+99,Chamorro,Chamorro,cham1312
+100,Drehu,Dehu,dehu1237
+101,Konua,Rapoisi,rapo1238
+102,Nasioi,Naasioi,naas1242 / nasi1247
+103,Ponapean,Pohnpeian,pohn1238
+104,SuIka,Sulka,sulk1246
+105,West Futuna,West Futuna,west2515
+106,Acoma,Keres,east1472 / kere1287 / west2632
+107,Chimariko,Chimariko,chim1301
+108,Diegueño,Kumiái,ipai1240 / kumi1248
+109,Pomo,Pomo languages,cent2138 / east2545 / nort2966 / pomo1271 / pomo1276 / sout2982 / sout2984
+110,Gitksan,Gitxsan,gitx1241
+111,Haida,Haida languages,haid1248 / nort2938 / sout2956
+112,Hanis,Coos,coos1249
+113,Ineseño,Ineseño,ines1240
+114,Karok,Karok,karo1304
+115,Kutenai,Kutenai,kute1249
+116,Lower Umpqua,????,sius1254
+117,Luiseño,Luiseño,luis1253
+118,Maidu,Maidu languages,nort2951 / nort2952 / vall1252
+119,Navajo,Navajo,nava1243
+120,Nootka,Nootka,nuuc1236
+121,Papago,O'odham,papi1253 / toho1245
+122,Quileute,Quileute,quil1240
+123,S Paiute,Ute-Southern Paiute,utes1238
+124,Sahaptin,Sahaptin,nort1527 / teni1238 / umat1237 / wall1238 / yaki1237
+125,Salinan,Salinan,sali1253
+126,Shasta,Shasta,shas1239
+127,Squamish,Squamish,squa1248
+128,SSM,Southern Sierra Miwok,sout2985
+129,Takelma,Takelma,take1257
+130,Tlingit,Takelma,take1257 / tlin1245
+131,Wappo,Wappo,wapp1239
+132,Washo,Washo,wash1253
+133,Wintu,Wintu,nucl1651 / wint1259
+134,Wishram,Wasco-Wishram,wasc1239
+135,Yawelmani,Yokuts,yoku1256
+136,Yurok,Yurok,yuro1248
+137,Zuni,Zuni,zuni1245
+138,Atakapa,Atakapa,atak1252
+139,Chitimacha,Chitimacha,chit1248
+140,Choctaw,Choctaw,choc1276
+141,Cree,Cree,atik1240 / cree1272 / mich1243 / mont1268 / moos1236 / nask1242 / nort1552 / plai1258 / seve1240 / sout2978 / wood1236
+142,Kiowa,Kiowa,kiow1264 / kiow1266
+143,Lakhota,Lakota,dako1258 / lako1247 / ston1242
+144,Natchez,Natchez,natc1249
+145,Pawnee,Pawnee,pawn1254
+146,Seneca,Seneca,sene1264
+147,Tonkawa,Tonkawa,tonk1249
+148,Tunica,Tunica,tuni1252
+149,Yuchi,Yuchi,yuch1247
+150,Chichimec,Chichimec,chic1272
+151,Chontal,Chontal languages,chow1240 / high1242 / lowl1260 / taba1266 / tequ1244
+152,Huave,Huave languages,sand1278 / sanf1258 / sanm1287 / sant1422
+153,Miskito,Mískito,misk1235
+154,Mixe,Mixe languages,atit1238 / coat1238 / isth1238 / juqu1238 / maza1292 / nort2939 / tapa1260 / tlah1239 / toto1305
+155,Mixtec,Mixteco languages,alac1244 / atat1238 / ayut1236 / chay1249 / coat1241 / jami1235 / ocot1243 / peno1244 / pino1237 / sanj1281 / sanm1295 / yoso1239
+156,Pipil,Pipil,pipi1250
+157,Tarascan,Purépecha,pure1242 / west2631
+158,Tepehua,Tepehua languages,hueh1236 / pisa1237 / tlac1235
+159,Tzutujil,Tzutujil languages,cakc1244 / tzut1248
+160,Axininca Campa,Ashéninca Pichis,asha1243
+161,Kanela-Craho,Canela+Krahô,cane1242 / krah1246 / timb1253
+162,Cashinahua,Cashinahua,cash1254
+163,Cayuvava,Cayubaba,cayu1262
+164,Guarani,Guaraní languages,east2555 / mbya1239 / para1311 / west2640
+165,Gününa-küne,Tehuelche,puel1244 / tehu1242 / teus1236
+166,Hixkaryana,Hixkaryána,hixk1239
+167,Jaqaru,Jaqaru,jaqa1244
+168,Jivaro,Shuar,achu1248 / huam1247 / shua1257
+169,Mapuche,Mapudungun,huil1244 / mapu1245
+170,Nambiquara,Nambikuára,sout2994
+171,Piraha,Múra-Pirahã,pira1253
+172,Huallaga Quechua,Huallaga Huánuco Quechua,hual1241 / huam1248
+173,Waorani,Waorani,waor1240
+174,Yagua,Yagua,yagu1244
