@@ -76,6 +76,7 @@ class Dataset(BaseDataset):
             if re.fullmatch('[a-z]{4}[0-9]{4}', lang.get('Glottocode', ''))}
 
         parameter_table = self.etc_dir.read_csv('parameters.csv', dicts=True)
+        code_table = self.etc_dir.read_csv('codes.csv', dicts=True)
 
         languoids = {
             l.id: l
@@ -88,12 +89,15 @@ class Dataset(BaseDataset):
             for row in raw_data]
 
         param_ids = [param['ID'] for param in parameter_table]
-        # TODO: extract codes
+        code_index = {
+            (code['Parameter_ID'], code['Old_Name']): code['ID']
+            for code in code_table}
         value_table = [
             {
                 'ID': '{}-{}'.format(row['ID'], param_id),
                 'Language_ID': row['ID'],
                 'Parameter_ID': param_id,
+                'Code_ID': code_index.get((param_id, row[param_id])) or '',
                 'Value': row[param_id],
             }
             for row in raw_data
@@ -104,9 +108,11 @@ class Dataset(BaseDataset):
 
         args.writer.cldf.add_component('LanguageTable')
         args.writer.cldf.add_component('ParameterTable')
+        args.writer.cldf.add_component('CodeTable')
 
         # write cldf
 
         args.writer.objects['LanguageTable'] = language_table
         args.writer.objects['ParameterTable'] = parameter_table
+        args.writer.objects['CodeTable'] = code_table
         args.writer.objects['ValueTable'] = value_table
