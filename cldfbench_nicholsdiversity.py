@@ -17,7 +17,7 @@ def read_raw_csv(f):
         for row in reader]
 
 
-def make_language(row, languoids, glottocode_map):
+def make_language(row, languoids, etc_languages):
     lang = {
         'ID': row['ID'],
         'Name': row['Name'],
@@ -26,8 +26,8 @@ def make_language(row, languoids, glottocode_map):
         row['Latitude'] = row['Lat']
         row['Longitude'] = row['Lon']
 
-    glottocode = glottocode_map.get(row['ID'])
-    if glottocode:
+    etc_language = etc_languages.get(row['ID']) or {}
+    if (glottocode := etc_languages.get('Glottocode')):
         languoid = languoids.get(glottocode)
         lang['Glottocode'] = glottocode
         lang['Macroarea'] = languoid.macroareas[0].name
@@ -36,6 +36,11 @@ def make_language(row, languoids, glottocode_map):
         if languoid.latitude and languoid.longitude:
             lang['Latitude'] = languoid.latitude
             lang['Longitude'] = languoid.longitude
+    if (sources := etc_language.get('Sources')):
+        lang['Source'] = [
+            trimmed
+            for src in sources.split(';')
+            if (trimmed := src.strip())]
 
     return lang
 
@@ -69,23 +74,25 @@ class Dataset(BaseDataset):
         data_file = self.raw_dir / 'Nichols1992_with_Pnames.csv'
         with open(data_file, encoding='utf-8') as f:
             raw_data = read_raw_csv(f)
+        sources = self.etc_dir.read_bib('sources.bib')
 
-        glottocode_map = {
-            lang['ID']: lang['Glottocode']
-            for lang in self.etc_dir.read_csv('glottocodes.csv', dicts=True)
-            if re.fullmatch('[a-z]{4}[0-9]{4}', lang.get('Glottocode', ''))}
+        etc_languages = {
+            lang['ID']: lang
+            for lang in self.etc_dir.read_csv(
+                'languages.csv', delimiter=';', dicts=True)}
 
         parameter_table = self.etc_dir.read_csv('parameters.csv', dicts=True)
         code_table = self.etc_dir.read_csv('codes.csv', dicts=True)
 
         languoids = {
             l.id: l
-            for l in args.glottolog.api.languoids(ids=glottocode_map.values())}
+            for l in args.glottolog.api.languoids(
+                ids=(lg['Glottocode'] for lg in etc_languages.values()))}
 
         # process
 
         language_table = [
-            make_language(row, languoids, glottocode_map)
+            make_language(row, languoids, etc_languages)
             for row in raw_data]
 
         param_ids = [param['ID'] for param in parameter_table]
@@ -106,7 +113,14 @@ class Dataset(BaseDataset):
 
         # schema
 
-        args.writer.cldf.add_component('LanguageTable')
+        args.writer.cldf.add_component(
+            'LanguageTable',
+            {
+                'dc:extent': 'multivalued',
+                'name': 'Source',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+                'separator': ';',
+            })
         args.writer.cldf.add_component('ParameterTable')
         args.writer.cldf.add_component('CodeTable')
 
@@ -116,3 +130,4 @@ class Dataset(BaseDataset):
         args.writer.objects['ParameterTable'] = parameter_table
         args.writer.objects['CodeTable'] = code_table
         args.writer.objects['ValueTable'] = value_table
+        args.writer.cldf.add_sources(*sources)
