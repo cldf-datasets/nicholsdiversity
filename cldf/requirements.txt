@@ -4,7 +4,7 @@ Babel==2.12.1
 bs4==0.0.1
 certifi==2023.7.22
 cldfbench==1.13.0
--e git+https://github.com/cldf-datasets/nicholsdiversity@349f240fad05d9d04a559b525f00882550ac6d39#egg=cldfbench_nicholsdiversity
+-e git+https://github.com/cldf-datasets/nicholsdiversity@fcb4684be1281189d0b815a6a2d97aa73b8a4ca4#egg=cldfbench_nicholsdiversity
 cldfcatalog==1.5.1
 cldfzenodo==1.1.0
 clldutils==3.19.0

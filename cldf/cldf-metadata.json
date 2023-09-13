@@ -8,13 +8,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/cldf-datasets/nicholsdiversity",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "CLDF version for Nichols 1992: Linguistic diversity in space and time",
     "dcat:accessURL": "https://github.com/cldf-datasets/nicholsdiversity",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/nicholsdiversity",
             "rdf:type": "prov:Entity",
-            "dc:created": "349f240",
+            "dc:created": "fcb4684",
             "dc:title": "Repository"
         },
         {
@@ -202,6 +203,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "dc:extent": "multivalued",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     }
                 ],
                 "primaryKey": [

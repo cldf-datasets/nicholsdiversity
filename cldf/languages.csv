@@ -1,175 +1,175 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-1,Amharic,Africa,11.708182,39.543456,amha1245,amh
-2,Dizi,Africa,6.1405,35.5763,dizi1235,mdx
-3,Fula,,,,,
-4,Fur,,,,,
-5,Gbeya,,,,,
-6,Hausa,Africa,11.1513,8.7804,haus1257,hau
-7,lk,,,,,
-8,!Kung,,,,,
-9,Logbara,Africa,3.02245,30.8642,lugb1240,lgg
-10,Luganda,,,,,
-11,Maasai,Africa,-3.1419,36.4573,masa1300,mas
-12,Mandinka,Africa,12.8165233333,-15.6539466667,mand1436,mnk
-13,Nama,,,,,
-14,Nera,,,,,
-15,Orig,,,,,
-16,Oromo,,,,,
-17,Sandawe,Africa,-5.26918,35.4808,sand1273,sad
-18,Songhai,,,,,
-19,Yoruba,,,,,
-20,Akkadian,Eurasia,33.1,44.1,akka1240,akk
-21,Elamite,Eurasia,31.1833,48.2333,elam1244,elx
-22,Hittite,Eurasia,40.0,35.0,hitt1242,hit
-23,Hurrian,,,,,
-24,Sumerian,,,,,
-25,Abkhaz,Eurasia,43.056218,41.159115,abkh1244,abk
-26,Armenian,,,,,
-27,Basque,Eurasia,43.2787,-1.31622,basq1248,eus
-28,Chechen,Eurasia,43.5,45.5,chec1245,che
-29,English,Eurasia,53.0,-1.0,stan1293,eng
-30,French,Eurasia,48.0,2.0,stan1290,fra
-31,Georgian,Eurasia,41.850397,43.78613,nucl1302,kat
-32,Hungarian,Eurasia,46.9068585714,19.6555271429,hung1274,hun
-33,Russian,Eurasia,59.0,50.0,russ1263,rus
-34,Zyrian,,,,,
-35,Ainu,,,,,
-36,Chukchi,Eurasia,68.6436,170.045,chuk1273,ckt
-37,Gilyak,,,,,
-38,Japanese,Eurasia,35.0,135.0,nucl1643,jpn
-39,Ket,,,,,
-40,Korean,Eurasia,37.54,126.98,kore1280,kor
-41,Mongolian,Eurasia,48.32397,106.28874,halh1238,khk
-42,Nanai,Eurasia,48.43426,134.79726,nana1257,gld
-43,Tuva,,,,,
-44,Yukagir,,,,,
-45,Yurak,Eurasia,66.1775,71.0234,nene1249,yrk
-46,Acehnese,Papunesia,3.90757,96.6032,achi1257,ace
-47,Burushaski,Eurasia,36.2161,74.8236,buru1296,bsk
-48,Gurung,,,,,
-49,Kota,,,,,
-50,Mandarin,Eurasia,40.0209,116.228,mand1415,cmn
-51,Miao,,,,,
-52,Nahali,,,,,
-53,Temiar,Eurasia,4.974,101.438,temi1246,tea
-54,Thai,Eurasia,14.192,100.671,thai1261,tha
-55,Waigali,Eurasia,35.191171,70.993533,waig1243,wbk
-56,Abelam,,,,,
-57,Alamblak,Papunesia,-4.66307,143.316,alam1246,amp
-58,Amele,Papunesia,-5.29126,145.687,amel1241,aey
-59,Arapesh,,,,,
-60,Asmat,,,,,
-61,Awtuw,Papunesia,-3.53129,141.928,awtu1239,kmn
-62,Barai,,,,,
-63,Hua,,,,,
-64,Kâte,,,,,
-65,Kewa,,,,,
-66,Kiwai,,,,,
-67,Kobon,Papunesia,-5.16446,144.46,kobo1249,kpw
-68,Kombai,,,,,
-69,Ku Waru,,,,,
-70,Salt-Yui,Papunesia,-6.26519,145.021,salt1242,sll
-71,Sentani,Papunesia,-2.6013,140.512,nucl1632,set
-72,Suena,Papunesia,-7.76339,147.534,suen1241,sue
-73,Tawala,,,,,
-74,Telefol,Papunesia,-5.07444,141.731,tele1256,tlf
-75,Vanimo,Papunesia,-2.68501,141.258,vani1248,vam
-76,Waris,Papunesia,-3.139,140.931,wari1266,wrs
-77,Yali,,,,,
-78,Yessan-Mayo,Papunesia,-4.15721,142.574,yess1239,yss
-79,Yimas,Papunesia,-4.71731,143.572,yima1243,yee
-80,Djingili,Australia,-17.165,133.659,djin1251,jig
-81,Dyirbal,Australia,-17.4516,145.544,dyir1250,dbl
-82,Garawa,,,,,
-83,Gunwinggu,,,,,
-84,Kuniyanti,Australia,-18.4073,126.351,goon1238,gni
-85,Malak-Malak,,,,,
-86,Mangarayi,Australia,-14.8,133.5,mang1381,mpc
-87,Martuthunira,Australia,-20.9294,116.607,mart1255,vma
-88,Maung,,,,,
-89,Ngiyambaa,Australia,-30.6481,146.18,wang1291,wyb
-90,Nunggubuyu,Australia,-14.2623,135.753,nung1290,nuy
-91,Nyigina,Australia,-17.9594,124.348,nyig1240,nyh
-92,Tiwi,,,,,
-93,Unigarinjin,,,,,
-94,Uradhi,,,,,
-95,Warndarang,Australia,-14.2996,135.705,wand1263,wnd
-96,WembaWemba,,,,,
-97,W. Desert,,,,,
-98,Yukulta,,,,,
-99,Chamorro,Papunesia,13.438011,144.74474,cham1312,cha
-100,Drehu,Papunesia,-20.8892,167.229,dehu1237,dhv
-101,Konua,Papunesia,-5.78724,154.834,rapo1238,kyx
-102,Nasioi,,,,,
-103,Ponapean,Papunesia,6.87212,158.223,pohn1238,pon
-104,SuIka,Papunesia,-5.03471,151.891,sulk1246,sua
-105,West Futuna,Papunesia,,,west2515,
-106,Acoma,,,,,
-107,Chimariko,North America,41.0,-123.0,chim1301,cid
-108,Diegueño,,,,,
-109,Pomo,,,,,
-110,Gitksan,North America,55.09,-128.08,gitx1241,git
-111,Haida,,,,,
-112,Hanis,North America,43.4413,-124.16,coos1249,csz
-113,Ineseño,North America,34.6169,-120.08,ines1240,inz
-114,Karok,North America,41.8228,-123.315,karo1304,kyh
-115,Kutenai,North America,48.7892,-115.065,kute1249,kut
-116,Lower Umpqua,North America,42.5111,-124.379,sius1254,sis
-117,Luiseño,North America,33.3184,-116.939,luis1253,lui
-118,Maidu,,,,,
-119,Navajo,North America,36.33,-109.38,nava1243,nav
-120,Nootka,North America,49.67,-126.67,nuuc1236,nuk
-121,Papago,,,,,
-122,Quileute,North America,47.9106,-124.603,quil1240,qui
-123,S Paiute,North America,40.0965,-110.305,utes1238,ute
-124,Sahaptin,,,,,
-125,Salinan,North America,37.6646,-121.718,sali1253,sln
-126,Shasta,North America,41.7587,-122.738,shas1239,sht
-127,Squamish,North America,49.3231,-123.014,squa1248,squ
-128,SSM,North America,38.2363,-120.507,sout2985,skd
-129,Takelma,North America,42.423,-123.452,take1257,tkm
-130,Tlingit,,,,,
-131,Wappo,North America,38.25,-122.5,wapp1239,wao
-132,Washo,North America,38.8184,-119.64,wash1253,was
-133,Wintu,,,,,
-134,Wishram,North America,45.0278,-121.509,wasc1239,wac
-135,Yawelmani,North America,36.3167,-119.721,yoku1256,yok
-136,Yurok,North America,41.3262,-123.824,yuro1248,yur
-137,Zuni,North America,35.0056,-108.782,zuni1245,zun
-138,Atakapa,North America,30.9121,-93.0827,atak1252,aqp
-139,Chitimacha,North America,30.3386,-90.9123,chit1248,ctm
-140,Choctaw,North America,32.25,-88.5,choc1276,cho
-141,Cree,,,,,
-142,Kiowa,,,,,
-143,Lakhota,,,,,
-144,Natchez,North America,31.75,-91.33,natc1249,ncz
-145,Pawnee,North America,36.2862,-96.8937,pawn1254,paw
-146,Seneca,North America,42.56,-77.53,sene1264,see
-147,Tonkawa,North America,30.25,-96.75,tonk1249,tqw
-148,Tunica,North America,30.9888,-92.5403,tuni1252,tun
-149,Yuchi,North America,35.75,-86.75,yuch1247,yuc
-150,Chichimec,North America,21.2943,-100.524,chic1272,pei
-151,Chontal,,,,,
-152,Huave,,,,,
-153,Miskito,North America,15.1576,-84.2942,misk1235,miq
-154,Mixe,,,,,
-155,Mixtec,,,,,
-156,Pipil,North America,13.8931,-89.443,pipi1250,ppl
-157,Tarascan,,,,,
-158,Tepehua,,,,,
-159,Tzutujil,,,,,
-160,Axininca Campa,South America,-11.9311,-73.9073,asha1243,cni
-161,Kanela-Craho,,,,,
-162,Cashinahua,South America,-9.72027,-71.1733,cash1254,cbs
-163,Cayuvava,South America,-13.2482,-65.4822,cayu1262,cyb
-164,Guarani,,,,,
-165,Gününa-küne,,,,,
-166,Hixkaryana,South America,-0.16265,-58.80153,hixk1239,hix
-167,Jaqaru,South America,-12.741939,-75.809231,jaqa1244,jqr
-168,Jivaro,,,,,
-169,Mapuche,,,,,
-170,Nambiquara,South America,-14.3707,-59.5187,sout2994,nab
-171,Piraha,South America,-6.77713,-61.8167,pira1253,myp
-172,Huallaga Quechua,,,,,
-173,Waorani,South America,-1.12312,-76.683,waor1240,auc
-174,Yagua,South America,-3.42913,-72.2186,yagu1244,yad
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Source
+1,Amharic,,,,,,Hartmann1980
+2,Dizi,,,,,,Allan1976
+3,Fula,,,,,,Arnott1970
+4,Fur,,,,,,Beaton1968
+5,Gbeya,,,,,,Samarin1966
+6,Hausa,,,,,,Howeidy1959;Kraft1963
+7,lk,,,,,,Tucker1971;Tucker1972;Tucker1973
+8,!Kung,,,,,,Snyman1970
+9,Logbara,,,,,,Crazzolara1960
+10,Luganda,,,,,,Ashton&al1954
+11,Maasai,,,,,,Tucker&Mpaayei1955
+12,Mandinka,,,,,,Creissels1983
+13,Nama,,,,,,Hagman1977
+14,Nera,,,,,,Thompson1976
+15,Orig,,,,,,Schadeberg&Elias1979
+16,Oromo,,,,,,Heine1980;Owens1985
+17,Sandawe,,,,,,Dempwolff1916;vandeKimmenade1954
+18,Songhai,,,,,,Tersis-Surugue1981;Nicolai1983;Hacquard&Dupuis1897
+19,Yoruba,,,,,,
+20,Akkadian,,,,,,
+21,Elamite,,,,,,
+22,Hittite,,,,,,
+23,Hurrian,,,,,,
+24,Sumerian,,,,,,
+25,Abkhaz,,,,,,
+26,Armenian,,,,,,
+27,Basque,,,,,,
+28,Chechen,,,,,,
+29,English,,,,,,
+30,French,,,,,,
+31,Georgian,,,,,,
+32,Hungarian,,,,,,
+33,Russian,,,,,,
+34,Zyrian,,,,,,
+35,Ainu,,,,,,
+36,Chukchi,,,,,,
+37,Gilyak,,,,,,
+38,Japanese,,,,,,
+39,Ket,,,,,,
+40,Korean,,,,,,
+41,Mongolian,,,,,,
+42,Nanai,,,,,,
+43,Tuva,,,,,,
+44,Yukagir,,,,,,
+45,Yurak,,,,,,
+46,Acehnese,,,,,,
+47,Burushaski,,,,,,
+48,Gurung,,,,,,
+49,Kota,,,,,,
+50,Mandarin,,,,,,
+51,Miao,,,,,,
+52,Nahali,,,,,,
+53,Temiar,,,,,,
+54,Thai,,,,,,
+55,Waigali,,,,,,
+56,Abelam,,,,,,Wilson1980;Laycock1965
+57,Alamblak,,,,,,
+58,Amele,,,,,,
+59,Arapesh,,,,,,
+60,Asmat,,,,,,
+61,Awtuw,,,,,,
+62,Barai,,,,,,Olson1981
+63,Hua,,,,,,
+64,Kâte,,,,,,
+65,Kewa,,,,,,
+66,Kiwai,,,,,,
+67,Kobon,,,,,,
+68,Kombai,,,,,,
+69,Ku Waru,,,,,,
+70,Salt-Yui,,,,,,
+71,Sentani,,,,,,
+72,Suena,,,,,,
+73,Tawala,,,,,,
+74,Telefol,,,,,,
+75,Vanimo,,,,,,
+76,Waris,,,,,,
+77,Yali,,,,,,
+78,Yessan-Mayo,,,,,,
+79,Yimas,,,,,,
+80,Djingili,,,,,,
+81,Dyirbal,,,,,,
+82,Garawa,,,,,,
+83,Gunwinggu,,,,,,
+84,Kuniyanti,,,,,,
+85,Malak-Malak,,,,,,
+86,Mangarayi,,,,,,
+87,Martuthunira,,,,,,
+88,Maung,,,,,,
+89,Ngiyambaa,,,,,,
+90,Nunggubuyu,,,,,,
+91,Nyigina,,,,,,
+92,Tiwi,,,,,,
+93,Unigarinjin,,,,,,
+94,Uradhi,,,,,,
+95,Warndarang,,,,,,
+96,WembaWemba,,,,,,
+97,W. Desert,,,,,,
+98,Yukulta,,,,,,
+99,Chamorro,,,,,,
+100,Drehu,,,,,,
+101,Konua,,,,,,
+102,Nasioi,,,,,,
+103,Ponapean,,,,,,
+104,SuIka,,,,,,
+105,West Futuna,,,,,,
+106,Acoma,,,,,,
+107,Chimariko,,,,,,
+108,Diegueño,,,,,,
+109,Pomo,,,,,,
+110,Gitksan,,,,,,
+111,Haida,,,,,,
+112,Hanis,,,,,,
+113,Ineseño,,,,,,
+114,Karok,,,,,,
+115,Kutenai,,,,,,
+116,Lower Umpqua,,,,,,
+117,Luiseño,,,,,,
+118,Maidu,,,,,,
+119,Navajo,,,,,,
+120,Nootka,,,,,,
+121,Papago,,,,,,
+122,Quileute,,,,,,
+123,S Paiute,,,,,,
+124,Sahaptin,,,,,,
+125,Salinan,,,,,,
+126,Shasta,,,,,,
+127,Squamish,,,,,,
+128,SSM,,,,,,
+129,Takelma,,,,,,
+130,Tlingit,,,,,,
+131,Wappo,,,,,,
+132,Washo,,,,,,
+133,Wintu,,,,,,
+134,Wishram,,,,,,
+135,Yawelmani,,,,,,
+136,Yurok,,,,,,
+137,Zuni,,,,,,
+138,Atakapa,,,,,,
+139,Chitimacha,,,,,,
+140,Choctaw,,,,,,
+141,Cree,,,,,,
+142,Kiowa,,,,,,
+143,Lakhota,,,,,,
+144,Natchez,,,,,,
+145,Pawnee,,,,,,
+146,Seneca,,,,,,
+147,Tonkawa,,,,,,
+148,Tunica,,,,,,
+149,Yuchi,,,,,,
+150,Chichimec,,,,,,
+151,Chontal,,,,,,
+152,Huave,,,,,,
+153,Miskito,,,,,,
+154,Mixe,,,,,,
+155,Mixtec,,,,,,
+156,Pipil,,,,,,
+157,Tarascan,,,,,,
+158,Tepehua,,,,,,
+159,Tzutujil,,,,,,
+160,Axininca Campa,,,,,,
+161,Kanela-Craho,,,,,,
+162,Cashinahua,,,,,,
+163,Cayuvava,,,,,,
+164,Guarani,,,,,,
+165,Gününa-küne,,,,,,
+166,Hixkaryana,,,,,,
+167,Jaqaru,,,,,,
+168,Jivaro,,,,,,
+169,Mapuche,,,,,,
+170,Nambiquara,,,,,,
+171,Piraha,,,,,,
+172,Huallaga Quechua,,,,,,
+173,Waorani,,,,,,
+174,Yagua,,,,,,
