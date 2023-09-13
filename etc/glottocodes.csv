@@ -1,175 +1,175 @@
-ID,Name,Ethnologuenamn,Glottocode
-1,Amharic,Amharic,amha1245
-2,Dizi,Dizi,dizi1235
-3,Fula,Nigerian Fulfulde,adam1253 / cent2018 / koro1298 / maas1239 / nige1253 / pula1262 / pula1263 / west2454
-4,Fur,Fur,furr1244 / somy1238
-5,Gbeya,Gbaya,boko1261 / gban1260 / gbay1281 / gbay1286 / gbay1287 / gbay1288 / nort2775 / sout2785 / suma1264
-6,Hausa,Hausa,haus1257
-7,lk,Ik,ikkk1242 / nyan1313
-8,!Kung,Kung-Ekoka,juho1239 / kung1260 / kung1261
-9,Logbara,Lugbara,lugb1240
-10,Luganda,Ganda,gaan1243 / gand1255
-11,Maasai,Maasai,masa1300
-12,Mandinka,Mandinka,mand1436
-13,Nama,Nama,cent2004 / nama1264 / nama1266 / tigo1236
-14,Nera,Nara,lala1268 / nara1262
-15,Orig,?????,tago1246 / tega1236
-16,Oromo,Oromo,bora1271 / east2652 / waat1238 / west2721
-17,Sandawe,Sandawe,sand1273
-18,Songhai,Songhay languages,humb1243 / koyr1240 / koyr1242
-19,Yoruba,Yoruba,ravu1237 / yoru1245
-20,Akkadian,n/a,akka1240
-21,Elamite,Elamite,elam1244
-22,Hittite,Hittite,hitt1242
-23,Hurrian,n/a,
-24,Sumerian,n/a,
-25,Abkhaz,Abkhaz,abkh1244
-26,Armenian,Armenian,homs1234 / nucl1235
-27,Basque,Basque,basq1248
-28,Chechen,Chechen,chec1245
-29,English,English,stan1293
-30,French,French,stan1290
-31,Georgian,Georgian,nucl1302
-32,Hungarian,Hungarian,hung1274
-33,Russian,Russian,russ1263
-34,Zyrian,Komi-Zyrian,komi1268 / komi1269
-35,Ainu,Ainu,ainu1240 / ainu1251
-36,Chukchi,Chukot,chuk1273
-37,Gilyak,Gilyak,gily1242 / sakh1247
-38,Japanese,Japanese,nucl1643
-39,Ket,Ket,kett1243 / selk1253
-40,Korean,Korean,kore1280
-41,Mongolian,Halh Mongolian,halh1238
-42,Nanai,Nanai,nana1257
-43,Tuva,Tuvin,soyo1234 / tuvi1240
-44,Yukagir,Yukaghir,nort2745 / sout2750
-45,Yurak,Nenets,nene1249
-46,Acehnese,Aceh,achi1257
-47,Burushaski,Burushaski,buru1296
-48,Gurung,Gurung,east2345 / guru1261 / lowa1242 / mana1288 / sout2715 / west2414
-49,Kota,Kota,bata1314 / diko1241 / kofa1236 / kota1263 / kota1274
-50,Mandarin,Mandarin Chinese,mand1415
-51,Miao,Hmong languages,cent1394 / cent2013 / east2370 / east2372 / geee1239 / hmon1263 / hmon1331 / hmon1332 / hmon1333 / larg1235 / nort1545 / nort1546 / nort2747 / nort2749 / sout1555 / sout1556 / sout2754 / sout2755 / sout2756 / west1507
-52,Nahali,Nihali,naha1261 / naha1262 / niha1238
-53,Temiar,Temiar,temi1246
-54,Thai,Thai,thai1261
-55,Waigali,Waigali,waig1243
-56,Abelam,Ambulas,ambu1247 / hang1263
-57,Alamblak,Alamblak,alam1246
-58,Amele,Amele,amel1241
-59,Arapesh,Arapesh languages,buki1249 / bumb1241
-60,Asmat,Asmat languages,casu1237 / cent2117 / cita1245 / nort2917 / tamn1235 / yaos1235
-61,Awtuw,Awtuw,awtu1239
-62,Barai,Barai,bara1377 / nami1258 / nucl1630
-63,Hua,Yagaria,hoaa1235 / huaa1248 / larg1235 / yaga1260
-64,Kâte,Kâte,kate1253 / yong1280
-65,Kewa,Kewa languages,east2516 / west2599
-66,Kiwai,Kiwai languages,kiwa1251 / nort2930 / sout2949
-67,Kobon,Kobon,kobo1249
-68,Kombai,Kombai,komb1274 / ndei1235 / wang1299
-69,Ku Waru,?????,
-70,Salt-Yui,Salt-Yui,salt1242
-71,Sentani,Sentani,nucl1632
-72,Suena,Suena,suen1241
-73,Tawala,Tawala,tawa1270 / tawa1275
-74,Telefol,Telefol,tele1256
-75,Vanimo,Vanimo,vani1248
-76,Waris,Waris,wari1266
-77,Yali,Yali languages,angg1239 / nini1235 / nips1240 / pass1247
-78,Yessan-Mayo,Yessan-Mayo,yess1239
-79,Yimas,Yimas,yima1243
-80,Djingili,Djingili,djin1251
-81,Dyirbal,Dyirbal,dyir1250
-82,Garawa,Garawa,gara1269 / tazn1238 / wany1247
-83,Gunwinggu,Gunwinggu,gunw1252 / mang1382
-84,Kuniyanti,Gooniyandi,goon1238
-85,Malak-Malak,Mullukmulluk,kamu1258 / madn1237 / mull1237
-86,Mangarayi,Mangarayi,mang1381
-87,Martuthunira,Martuyhunira,mart1255
-88,Maung,Maung,anta1253 / maun1240
-89,Ngiyambaa,Wangaaybuwan-Ngiyambaa,wang1291
-90,Nunggubuyu,Nunggubuyu,nung1290
-91,Nyigina,Nyigina,nyig1240
-92,Tiwi,Tiwi,tivv1240 / tiwi1244
-93,Unigarinjin,Ngarinyin,ngar1284 / wila1240
-94,Uradhi,Uradhi,atam1239 / urad1239 / wuth1237
-95,Warndarang,Wandarang,wand1263
-96,WembaWemba,?????,wemb1241 / west2443
-97,W. Desert,Wati languages??,
-98,Yukulta,Ganggalida,gang1267 / lard1243
-99,Chamorro,Chamorro,cham1312
-100,Drehu,Dehu,dehu1237
-101,Konua,Rapoisi,rapo1238
-102,Nasioi,Naasioi,naas1242 / nasi1247
-103,Ponapean,Pohnpeian,pohn1238
-104,SuIka,Sulka,sulk1246
-105,West Futuna,West Futuna,west2515
-106,Acoma,Keres,east1472 / kere1287 / west2632
-107,Chimariko,Chimariko,chim1301
-108,Diegueño,Kumiái,ipai1240 / kumi1248
-109,Pomo,Pomo languages,cent2138 / east2545 / nort2966 / pomo1271 / pomo1276 / sout2982 / sout2984
-110,Gitksan,Gitxsan,gitx1241
-111,Haida,Haida languages,haid1248 / nort2938 / sout2956
-112,Hanis,Coos,coos1249
-113,Ineseño,Ineseño,ines1240
-114,Karok,Karok,karo1304
-115,Kutenai,Kutenai,kute1249
-116,Lower Umpqua,????,sius1254
-117,Luiseño,Luiseño,luis1253
-118,Maidu,Maidu languages,nort2951 / nort2952 / vall1252
-119,Navajo,Navajo,nava1243
-120,Nootka,Nootka,nuuc1236
-121,Papago,O'odham,papi1253 / toho1245
-122,Quileute,Quileute,quil1240
-123,S Paiute,Ute-Southern Paiute,utes1238
-124,Sahaptin,Sahaptin,nort1527 / teni1238 / umat1237 / wall1238 / yaki1237
-125,Salinan,Salinan,sali1253
-126,Shasta,Shasta,shas1239
-127,Squamish,Squamish,squa1248
-128,SSM,Southern Sierra Miwok,sout2985
-129,Takelma,Takelma,take1257
-130,Tlingit,Takelma,take1257 / tlin1245
-131,Wappo,Wappo,wapp1239
-132,Washo,Washo,wash1253
-133,Wintu,Wintu,nucl1651 / wint1259
-134,Wishram,Wasco-Wishram,wasc1239
-135,Yawelmani,Yokuts,yoku1256
-136,Yurok,Yurok,yuro1248
-137,Zuni,Zuni,zuni1245
-138,Atakapa,Atakapa,atak1252
-139,Chitimacha,Chitimacha,chit1248
-140,Choctaw,Choctaw,choc1276
-141,Cree,Cree,atik1240 / cree1272 / mich1243 / mont1268 / moos1236 / nask1242 / nort1552 / plai1258 / seve1240 / sout2978 / wood1236
-142,Kiowa,Kiowa,kiow1264 / kiow1266
-143,Lakhota,Lakota,dako1258 / lako1247 / ston1242
-144,Natchez,Natchez,natc1249
-145,Pawnee,Pawnee,pawn1254
-146,Seneca,Seneca,sene1264
-147,Tonkawa,Tonkawa,tonk1249
-148,Tunica,Tunica,tuni1252
-149,Yuchi,Yuchi,yuch1247
-150,Chichimec,Chichimec,chic1272
-151,Chontal,Chontal languages,chow1240 / high1242 / lowl1260 / taba1266 / tequ1244
-152,Huave,Huave languages,sand1278 / sanf1258 / sanm1287 / sant1422
-153,Miskito,Mískito,misk1235
-154,Mixe,Mixe languages,atit1238 / coat1238 / isth1238 / juqu1238 / maza1292 / nort2939 / tapa1260 / tlah1239 / toto1305
-155,Mixtec,Mixteco languages,alac1244 / atat1238 / ayut1236 / chay1249 / coat1241 / jami1235 / ocot1243 / peno1244 / pino1237 / sanj1281 / sanm1295 / yoso1239
-156,Pipil,Pipil,pipi1250
-157,Tarascan,Purépecha,pure1242 / west2631
-158,Tepehua,Tepehua languages,hueh1236 / pisa1237 / tlac1235
-159,Tzutujil,Tzutujil languages,cakc1244 / tzut1248
-160,Axininca Campa,Ashéninca Pichis,asha1243
-161,Kanela-Craho,Canela+Krahô,cane1242 / krah1246 / timb1253
-162,Cashinahua,Cashinahua,cash1254
-163,Cayuvava,Cayubaba,cayu1262
-164,Guarani,Guaraní languages,east2555 / mbya1239 / para1311 / west2640
-165,Gününa-küne,Tehuelche,puel1244 / tehu1242 / teus1236
-166,Hixkaryana,Hixkaryána,hixk1239
-167,Jaqaru,Jaqaru,jaqa1244
-168,Jivaro,Shuar,achu1248 / huam1247 / shua1257
-169,Mapuche,Mapudungun,huil1244 / mapu1245
-170,Nambiquara,Nambikuára,sout2994
-171,Piraha,Múra-Pirahã,pira1253
-172,Huallaga Quechua,Huallaga Huánuco Quechua,hual1241 / huam1248
-173,Waorani,Waorani,waor1240
-174,Yagua,Yagua,yagu1244
+ID;Name;Macroarea;Latitude;Longitude;Glottocode;ISO639P3code;Sources
+1;Amharic;Africa;11.708182;39.543456;amha1245;amh;Hartmann1980
+2;Dizi;Africa;6.1405;35.5763;dizi1235;mdx;Allan1976
+3;Fula;;;;nige1253;&;Arnott1970
+4;Fur;;;;furr1244;&;Beaton1968
+5;Gbeya;;;;gbay1287;&;Samarin1966
+6;Hausa;Africa;11.1513;8.7804;haus1257;hau;"Howeidy1959; Kraft1963"
+7;lk;;;;ikkk1242;&;"Tucker1971; Tucker1972; Tucker1973"
+8;!Kung;;;;kung1261;&;Snyman1970
+9;Logbara;Africa;3.02245;30.8642;lugb1240;lgg;Crazzolara1960
+10;Luganda;;;;gand1255;&;Ashton&al1954
+11;Maasai;Africa;-3.1419;36.4573;masa1300;mas;Tucker&Mpaayei1955
+12;Mandinka;Africa;12.8165233333;-15.6539466667;mand1436;mnk;Creissels1983
+13;Nama;;;;nama1264;&;Hagman1977
+14;Nera;;;;nara1262;&;Thompson1976
+15;Orig;;;;orig1235;&;Schadeberg&Elias1979
+16;Oromo;;;;cent2302;&;"Heine1980; Owens1985"
+17;Sandawe;Africa;-5.26918;35.4808;sand1273;sad;"Dempwolff1916; vandeKimmenade1954"
+18;Songhai;;;;zarm1239;&;"Tersis-Surugue1981; Nicolai1983; Hacquard&Dupuis1897"
+19;Yoruba;;;;yoru1245;&;
+20;Akkadian;Eurasia;33.1;44.1;akka1240;akk;
+21;Elamite;Eurasia;31.1833;48.2333;elam1244;elx;
+22;Hittite;Eurasia;40.0;35.0;hitt1242;hit;
+23;Hurrian;;;;hurr1240;&;
+24;Sumerian;;;;sume1241;&;
+25;Abkhaz;Eurasia;43.056218;41.159115;abkh1244;abk;
+26;Armenian;;;;nucl1235;&;
+27;Basque;Eurasia;43.2787;-1.31622;basq1248;eus;
+28;Chechen;Eurasia;43.5;45.5;chec1245;che;
+29;English;Eurasia;53.0;-1.0;stan1293;eng;
+30;French;Eurasia;48.0;2.0;stan1290;fra;
+31;Georgian;Eurasia;41.850397;43.78613;nucl1302;kat;
+32;Hungarian;Eurasia;46.9068585714;19.6555271429;hung1274;hun;
+33;Russian;Eurasia;59.0;50.0;russ1263;rus;
+34;Zyrian;;;;komi1268;&;
+35;Ainu;;;;ainu1252;&;
+36;Chukchi;Eurasia;68.6436;170.045;chuk1273;ckt;
+37;Gilyak;;;;gily1242;&;
+38;Japanese;Eurasia;35.0;135.0;nucl1643;jpn;
+39;Ket;;;;kett1243;&;
+40;Korean;Eurasia;37.54;126.98;kore1280;kor;
+41;Mongolian;Eurasia;48.32397;106.28874;halh1238;khk;
+42;Nanai;Eurasia;48.43426;134.79726;nana1257;gld;
+43;Tuva;;;;tuvi1240;&;
+44;Yukagir;;;;nort2745;&;
+45;Yurak;Eurasia;66.1775;71.0234;nene1249;yrk;
+46;Acehnese;Papunesia;3.90757;96.6032;achi1257;ace;
+47;Burushaski;Eurasia;36.2161;74.8236;buru1296;bsk;
+48;Gurung;;;;guru1261;&;
+49;Kota;;;;kota1263;&;
+50;Mandarin;Eurasia;40.0209;116.228;mand1415;cmn;
+51;Miao;;;;nucl1720;&;
+52;Nahali;;;;niha1238;&;
+53;Temiar;Eurasia;4.974;101.438;temi1246;tea;
+54;Thai;Eurasia;14.192;100.671;thai1261;tha;
+55;Waigali;Eurasia;35.191171;70.993533;waig1243;wbk;
+56;Abelam;Papunesia;;;ambu1247;&;"Wilson1980; Laycock1965"
+57;Alamblak;Papunesia;-4.66307;143.316;alam1246;amp;
+58;Amele;Papunesia;-5.29126;145.687;amel1241;aey;
+59;Arapesh;;;;buki1249;&;
+60;Asmat;;;;cent2117;&;
+61;Awtuw;Papunesia;-3.53129;141.928;awtu1239;kmn;
+62;Barai;;;;nucl1630;&;Olson1981
+63;Hua;;;;huaa1250;&;
+64;Kâte;;;;kate1253;&;
+65;Kewa;;;;west2599;&;
+66;Kiwai;;;;nort2930;&;
+67;Kobon;Papunesia;-5.16446;144.46;kobo1249;kpw;
+68;Kombai;;;;komb1274;&;
+69;Ku Waru;;;;boun1245;&;
+70;Salt-Yui;Papunesia;-6.26519;145.021;salt1242;sll;
+71;Sentani;Papunesia;-2.6013;140.512;nucl1632;set;
+72;Suena;Papunesia;-7.76339;147.534;suen1241;sue;
+73;Tawala;;;;tawa1275;&;
+74;Telefol;Papunesia;-5.07444;141.731;tele1256;tlf;
+75;Vanimo;Papunesia;-2.68501;141.258;vani1248;vam;
+76;Waris;Papunesia;-3.139;140.931;wari1266;wrs;
+77;Yali;;;;pass1247;&;
+78;Yessan-Mayo;Papunesia;-4.15721;142.574;yess1239;yss;
+79;Yimas;Papunesia;-4.71731;143.572;yima1243;yee;
+80;Djingili;Australia;-17.165;133.659;djin1251;jig;
+81;Dyirbal;Australia;-17.4516;145.544;dyir1250;dbl;
+82;Garawa;;;;gara1269;&;
+83;Gunwinggu;;;;gunw1252;&;
+84;Kuniyanti;Australia;-18.4073;126.351;goon1238;gni;
+85;Malak-Malak;;;;mull1237;&;
+86;Mangarayi;Australia;-14.8;133.5;mang1381;mpc;
+87;Martuthunira;Australia;-20.9294;116.607;mart1255;vma;
+88;Maung;;;;maun1240;&;
+89;Ngiyambaa;Australia;-30.6481;146.18;wang1291;wyb;
+90;Nunggubuyu;Australia;-14.2623;135.753;nung1290;nuy;
+91;Nyigina;Australia;-17.9594;124.348;nyig1240;nyh;
+92;Tiwi;;;;tiwi1244;&;
+93;Ungarinjin;;;;ngar1284;&;
+94;Uradhi;;;;urad1238;&;
+95;Warndarang;Australia;-14.2996;135.705;wand1263;wnd;
+96;WembaWemba;;;;west2443;&;
+97;W. Desert;;;;yank1247;&;
+98;Yukulta;;;;gang1267;&;
+99;Chamorro;Papunesia;13.438011;144.74474;cham1312;cha;
+100;Drehu;Papunesia;-20.8892;167.229;dehu1237;dhv;
+101;Konua;Papunesia;-5.78724;154.834;rapo1238;kyx;
+102;Nasioi;;;;naas1242;&;
+103;Ponapean;Papunesia;6.87212;158.223;pohn1238;pon;
+104;SuIka;Papunesia;-5.03471;151.891;sulk1246;sua;
+105;West Futuna;Papunesia;;;west2515;&;
+106;Acoma;;;;acom1246;&;
+107;Chimariko;North America;41.0;-123.0;chim1301;cid;
+108;Diegueño;;;;kumi1248;&;
+109;Eastern Pomo;;;;east2545;&;
+110;Gitksan;North America;55.09;-128.08;gitx1241;git;
+111;Haida;;;;sout2956;&;
+112;Hanis;North America;43.4413;-124.16;coos1249;csz;
+113;Ineseño;North America;34.6169;-120.08;ines1240;inz;
+114;Karok;North America;41.8228;-123.315;karo1304;kyh;
+115;Kutenai;North America;48.7892;-115.065;kute1249;kut;
+116;Lower Umpqua;North America;42.5111;-124.379;sius1254;sis;
+117;Luiseño;North America;33.3184;-116.939;luis1253;lui;
+118;Maidu;;;;nort2952;&;
+119;Navajo;North America;36.33;-109.38;nava1243;nav;
+120;Nootka;North America;49.67;-126.67;nuuc1236;nuk;
+121;Papago;;;;toho1245;&;
+122;Quileute;North America;47.9106;-124.603;quil1240;qui;
+123;S Paiute;North America;40.0965;-110.305;utes1238;ute;
+124;Sahaptin;;;;saha1240;&;
+125;Salinan;North America;37.6646;-121.718;sali1253;sln;
+126;Shasta;North America;41.7587;-122.738;shas1239;sht;
+127;Squamish;North America;49.3231;-123.014;squa1248;squ;
+128;SSM;North America;38.2363;-120.507;sout2985;skd;
+129;Takelma;North America;42.423;-123.452;take1257;tkm;
+130;Tlingit;;;;tlin1245;&;
+131;Wappo;North America;38.25;-122.5;wapp1239;wao;
+132;Washo;North America;38.8184;-119.64;wash1253;was;
+133;Wintu;;;;wint1259;&;
+134;Wishram;North America;45.0278;-121.509;wasc1239;wac;
+135;Yawelmani;North America;36.3167;-119.721;yoku1256;yok;
+136;Yurok;North America;41.3262;-123.824;yuro1248;yur;
+137;Zuni;North America;35.0056;-108.782;zuni1245;zun;
+138;Atakapa;North America;30.9121;-93.0827;atak1252;aqp;
+139;Chitimacha;North America;30.3386;-90.9123;chit1248;ctm;
+140;Choctaw;North America;32.25;-88.5;choc1276;cho;
+141;Cree;;;;plai1258;&;
+142;Kiowa;;;;kiow1266;&;
+143;Lakhota;;;;dako1258;&;
+144;Natchez;North America;31.75;-91.33;natc1249;ncz;
+145;Pawnee;North America;36.2862;-96.8937;pawn1254;paw;
+146;Seneca;North America;42.56;-77.53;sene1264;see;
+147;Tonkawa;North America;30.25;-96.75;tonk1249;tqw;
+148;Tunica;North America;30.9888;-92.5403;tuni1252;tun;
+149;Yuchi;North America;35.75;-86.75;yuch1247;yuc;
+150;Chichimec;North America;21.2943;-100.524;chic1272;pei;
+151;Chontal;;;;lowl1260;&;
+152;Huave;;;;sand1278;&;
+153;Miskito;North America;15.1576;-84.2942;misk1235;miq;
+154;Mixe;;;;toto1305;&;
+155;Mixtec;;;;sanm1295;&;
+156;Pipil;North America;13.8931;-89.443;pipi1250;ppl;
+157;Tarascan;;;;pure1242;&;
+158;Tepehua;;;;tlac1235;&;
+159;Tzutujil;;;;tzut1248;&;
+160;Axininca Campa;South America;-11.9311;-73.9073;asha1243;cni;
+161;Kanela-Craho;;;;cane1242;&;
+162;Cashinahua;South America;-9.72027;-71.1733;cash1254;cbs;
+163;Cayuvava;South America;-13.2482;-65.4822;cayu1262;cyb;
+164;Guarani;;;;para1311;&;
+165;Gününa-küne;;;;puel1244;&;
+166;Hixkaryana;South America;-0.16265;-58.80153;hixk1239;hix;
+167;Jaqaru;South America;-12.741939;-75.809231;jaqa1244;jqr;
+168;Jivaro;;;;shua1257;&;
+169;Mapuche;;;;mapu1245;&;
+170;Nambiquara;South America;-14.3707;-59.5187;sout2994;nab;
+171;Piraha;South America;-6.77713;-61.8167;pira1253;myp;
+172;Huallaga Quechua;;;;hual1241;&;
+173;Waorani;South America;-1.12312;-76.683;waor1240;auc;
+174;Yagua;South America;-3.42913;-72.2186;yagu1244;yad;
