@@ -27,10 +27,11 @@ def make_language(row, languoids, etc_languages):
         row['Longitude'] = row['Lon']
 
     etc_language = etc_languages.get(row['ID']) or {}
-    if (glottocode := etc_languages.get('Glottocode')):
+    if (glottocode := etc_language.get('Glottocode')):
         languoid = languoids.get(glottocode)
         lang['Glottocode'] = glottocode
-        lang['Macroarea'] = languoid.macroareas[0].name
+        if languoid.macroareas:
+            lang['Macroarea'] = languoid.macroareas[0].name
         if languoid.iso_code:
             lang['ISO639P3code'] = languoid.iso_code
         if languoid.latitude and languoid.longitude:
@@ -84,10 +85,9 @@ class Dataset(BaseDataset):
         parameter_table = self.etc_dir.read_csv('parameters.csv', dicts=True)
         code_table = self.etc_dir.read_csv('codes.csv', dicts=True)
 
+        glottocodes = {lg['Glottocode'] for lg in etc_languages.values()}
         languoids = {
-            l.id: l
-            for l in args.glottolog.api.languoids(
-                ids=(lg['Glottocode'] for lg in etc_languages.values()))}
+            l.id: l for l in args.glottolog.api.languoids(ids=glottocodes)}
 
         # process
 
