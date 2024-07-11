@@ -32,7 +32,7 @@ ID,Name,Description
 34,Numeral classifiers,existence of numeral classifiers
 34x,Number of numeral classifiers,how many numeral classifiers there are in a language
 35,Dominant clausal word order,basic or dominant or preferred word order at the clause level
-36,Plurality neutralization in personal pronouns, lurality neutralization in personal pronouns (in languages with nonzero head and dependent marking)
+36,Plurality neutralization in personal pronouns, plurality neutralization in personal pronouns (in languages with nonzero head and dependent marking)
 37,Plurality neutralization in nouns,plurality neutralization in nouns (in languages with nonzero head and dependent marking)
 38,Plurality neutralization in verbs,plurality neutralization in verbs (in languages with nonzero head and dependent marking)
 39,Any plurality neutralization,"plurality neutralization in verbs, nouns or personal pronouns (in languages with nonzero head and dependent marking)"
