@@ -37,7 +37,7 @@ def make_language(row, languoids, etc_languages):
         if languoid.latitude and languoid.longitude:
             lang['Latitude'] = languoid.latitude
             lang['Longitude'] = languoid.longitude
-    if (sources := etc_language.get('Sources')):
+    if (sources := etc_language.get('Source')):
         lang['Source'] = [
             trimmed
             for src in sources.split(';')
@@ -79,8 +79,7 @@ class Dataset(BaseDataset):
 
         etc_languages = {
             lang['ID']: lang
-            for lang in self.etc_dir.read_csv(
-                'languages.csv', delimiter=';', dicts=True)}
+            for lang in self.etc_dir.read_csv('languages.csv', dicts=True)}
 
         parameter_table = self.etc_dir.read_csv('parameters.csv', dicts=True)
         code_table = self.etc_dir.read_csv('codes.csv', dicts=True)
