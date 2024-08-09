@@ -121,7 +121,7 @@ class Dataset(BaseDataset):
                 'separator': ';',
             })
         args.writer.cldf.add_component('ParameterTable')
-        args.writer.cldf.add_component('CodeTable')
+        args.writer.cldf.add_component('CodeTable', 'Map_Icon')
 
         # write cldf
 
