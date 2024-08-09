@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/nicholsdiversity",
             "rdf:type": "prov:Entity",
-            "dc:created": "c50fa5b",
+            "dc:created": "776377a",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.8.19"
         },
         {
             "dc:title": "python-packages",
