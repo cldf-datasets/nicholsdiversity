@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/nicholsdiversity",
             "rdf:type": "prov:Entity",
-            "dc:created": "8cb3fdd",
+            "dc:created": "5e3cea4",
             "dc:title": "Repository"
         },
         {
@@ -289,6 +289,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Map_Icon"
                     }
                 ],
                 "foreignKeys": [
