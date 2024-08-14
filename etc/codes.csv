@@ -234,8 +234,8 @@ ID,Parameter_ID,Old_Name,Name,Colour,Map_Icon
 31-1,31,?,uncertain,grey,ccccccc
 31-2,31,Y,present,red,cdd0000
 32-1,32,Y,present,red,cdd0000
-33-1,33,Y,present,red,cdd0000
-33-2,33,y,present,red,cdd0000
+33-1,33,Y,present (Y),red,cdd0000
+33-2,33,y,present (y),orange,cff6600
 34-1,34,?,uncertain,grey,ccccccc
 34-2,34,N,absent,white,dffffff
 34-3,34,Y,present,red,cdd0000
