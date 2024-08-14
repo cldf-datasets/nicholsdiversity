@@ -82,7 +82,9 @@ class Dataset(BaseDataset):
             for lang in self.etc_dir.read_csv('languages.csv', dicts=True)}
 
         parameter_table = self.etc_dir.read_csv('parameters.csv', dicts=True)
-        code_table = self.etc_dir.read_csv('codes.csv', dicts=True)
+        code_table = {
+            (code['Parameter_ID'], code['Old_Name']): code
+            for code in self.etc_dir.read_csv('codes.csv', dicts=True)}
 
         glottocodes = {lg['Glottocode'] for lg in etc_languages.values()}
         languoids = {
@@ -95,16 +97,17 @@ class Dataset(BaseDataset):
             for row in raw_data]
 
         param_ids = [param['ID'] for param in parameter_table]
-        code_index = {
-            (code['Parameter_ID'], code['Old_Name']): code['ID']
-            for code in code_table}
+
+        def _code(param_id, old_value):
+            return code_table.get((param_id, old_value)) or {}
+
         value_table = [
             {
                 'ID': '{}-{}'.format(row['ID'], param_id),
                 'Language_ID': row['ID'],
                 'Parameter_ID': param_id,
-                'Code_ID': code_index.get((param_id, row[param_id])) or '',
-                'Value': row[param_id],
+                'Code_ID': (code := _code(param_id, row[param_id])).get('ID') or '',
+                'Value': code.get('Name') or row[param_id],
             }
             for row in raw_data
             for param_id in param_ids
@@ -127,6 +130,6 @@ class Dataset(BaseDataset):
 
         args.writer.objects['LanguageTable'] = language_table
         args.writer.objects['ParameterTable'] = parameter_table
-        args.writer.objects['CodeTable'] = code_table
+        args.writer.objects['CodeTable'] = code_table.values()
         args.writer.objects['ValueTable'] = value_table
         args.writer.cldf.add_sources(*sources)
