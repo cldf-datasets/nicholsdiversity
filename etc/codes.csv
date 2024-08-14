@@ -1,286 +1,286 @@
 ID,Parameter_ID,Old_Name,Name,Description,Map_Icon
-2-1,2,0,0,,
-2-2,2,1,1,,
-2-3,2,2,2,,
-2-4,2,3,3,,
-3-1,3,0,0,,
-3-2,3,1,1,,
-3-3,3,2,2,,
-4-1,4,0,0,,
-4-2,4,1,1,,
-5-1,5,-,-,,
-5-2,5,F,F,,
-5-3,5,NP,NP,,
-5-4,5,NP?,NP?,,
-6-1,6,0,0,,
-6-2,6,1,1,,
-6-3,6,2,2,,
-6-4,6,?,?,,
-7-1,7,0,0,,
-7-2,7,1,1,,
-7-3,7,2,2,,
-8-1,8,0,0,,
-8-2,8,1,1,,
-8-3,8,2,2,,
-8-4,8,4,4,,
-8-5,8,5,5,,
-8-6,8,6,6,,
-9-1,9,0,0,,
-9-2,9,1,1,,
-9-3,9,2,2,,
-9-4,9,3,3,,
-9-5,9,4,4,,
-9-6,9,5,5,,
-9-7,9,6,6,,
-10-1,10,1,1,,
-10-2,10,2,2,,
-10-3,10,3,3,,
-10-4,10,4,4,,
-11-1,11,0,0,,
-11-2,11,1,1,,
-11-3,11,2,2,,
-11-4,11,3,3,,
-11-5,11,4,4,,
-11-6,11,5,5,,
-11-7,11,6,6,,
-11-8,11,7,7,,
-11-9,11,8,8,,
-11-10,11,9,9,,
-12-1,12,-1,-1,,
-12-2,12,0,0,,
-12-3,12,1,1,,
-12-4,12,2,2,,
-12-5,12,3,3,,
-12-6,12,4,4,,
-12-7,12,5,5,,
-12-8,12,6,6,,
-12-9,12,7,7,,
-12-10,12,8,8,,
-13-1,13,0,0,,
-13-2,13,1,1,,
-13-3,13,2,2,,
-13-4,13,3,3,,
-13-5,13,4,4,,
-14-1,14,-8,-8,,
-14-2,14,-6,-6,,
-14-3,14,-5,-5,,
-14-4,14,-4,-4,,
-14-5,14,-3,-3,,
-14-6,14,-2,-2,,
-14-7,14,-1,-1,,
-14-8,14,0,0,,
-14-9,14,1,1,,
-14-10,14,2,2,,
-14-11,14,3,3,,
-14-12,14,4,4,,
-14-13,14,5,5,,
-14-14,14,6,6,,
-14-15,14,7,7,,
-14-16,14,8,8,,
-14-17,14,9,9,,
-15-1,15,2,2,,
-15-2,15,3,3,,
-15-3,15,4,4,,
-15-4,15,5,5,,
-15-5,15,6,6,,
-15-6,15,7,7,,
-15-7,15,8,8,,
-15-8,15,9,9,,
-15-9,15,10,10,,
-15-10,15,11,11,,
-15-11,15,12,12,,
-15-12,15,13,13,,
-15-13,15,14,14,,
-15-14,15,15,15,,
-16-1,16,0,0,,
-16-2,16,"0,1","0,1",,
-16-3,16,"0,2","0,2",,
-16-4,16,"0,4","0,4",,
-16-5,16,"0,5","0,5",,
-16-6,16,"0,6","0,6",,
-16-7,16,"0,7","0,7",,
-16-8,16,"0,8","0,8",,
-16-9,16,"0,13","0,13",,
-16-10,16,"0,14","0,14",,
-16-11,16,"0,17","0,17",,
-16-12,16,"0,25","0,25",,
-16-13,16,"0,29","0,29",,
-16-14,16,"0,33","0,33",,
-16-15,16,"0,38","0,38",,
-16-16,16,"0,43","0,43",,
-16-17,16,"0,44","0,44",,
-16-18,16,"0,45","0,45",,
-16-19,16,"0,47","0,47",,
-16-20,16,"0,54","0,54",,
-16-21,16,"0,55","0,55",,
-16-22,16,"0,56","0,56",,
-16-23,16,"0,57","0,57",,
-16-24,16,"0,58","0,58",,
-16-25,16,"0,61","0,61",,
-16-26,16,"0,62","0,62",,
-16-27,16,"0,64","0,64",,
-16-28,16,"0,67","0,67",,
-16-29,16,"0,69","0,69",,
-16-30,16,"0,73","0,73",,
-16-31,16,"0,75","0,75",,
-16-32,16,"0,78","0,78",,
-16-33,16,"0,82","0,82",,
-16-34,16,"0,88","0,88",,
-16-35,16,"0,89","0,89",,
-16-36,16,1,1,,
-19-1,19,3,3,,
-19-2,19,?,?,,
-19-3,19,A,A,,
-19-4,19,A/c,A/c,,
-19-5,19,A/n,A/n,,
-19-6,19,A?,A?,,
-19-7,19,E,E,,
-19-8,19,E/A,E/A,,
-19-9,19,E/a,E/a,,
-19-10,19,E?,E?,,
-19-11,19,N,N,,
-19-12,19,N/3,N/3,,
-19-13,19,N/A,N/A,,
-19-14,19,N/a,N/a,,
-19-15,19,N7,N7,,
-19-16,19,N?,N?,,
-20-1,20,?,?,,
-20-2,20,A,A,,
-20-3,20,A/E,A/E,,
-20-4,20,A/n,A/n,,
-20-5,20,A?,A?,,
-20-6,20,AIE,AIE,,
-20-7,20,E,E,,
-20-8,20,E/3,E/3,,
-20-9,20,E/A,E/A,,
-20-10,20,E/a,E/a,,
-20-11,20,N,N,,
-20-12,20,N/A,N/A,,
-20-13,20,N/a,N/a,,
-20-14,20,N?,N?,,
-21-1,21,3,3,,
-21-2,21,3?,3?,,
-21-3,21,A,A,,
-21-4,21,A.,A.,,
-21-5,21,A/3,A/3,,
-21-6,21,A/H,A/H,,
-21-7,21,A/N,A/N,,
-21-8,21,A?,A?,,
-21-9,21,AtH,AtH,,
-21-10,21,E,E,,
-21-11,21,E/A,E/A,,
-21-12,21,E/a,E/a,,
-21-13,21,H,H,,
-21-14,21,H/A,H/A,,
-21-15,21,N,N,,
-21-16,21,N/A,N/A,,
-21-17,21,N/a,N/a,,
-21-18,21,N/e,N/e,,
-21-19,21,N?,N?,,
-21-20,21,NIA,NIA,,
-21-21,21,S,S,,
-21-22,21,S/A,S/A,,
-21-23,21,S/E,S/E,,
-21-24,21,S?,S?,,
-21-25,21,S?/E,S?/E,,
-22-1,22,3,3,,
-22-2,22,A,A,,
-22-3,22,A?,A?,,
-22-4,22,E,E,,
-22-5,22,E?,E?,,
-22-6,22,H,H,,
-22-7,22,N,N,,
-22-8,22,N?,N?,,
-22-9,22,S,S,,
-22-10,22,S?,S?,,
-22-11,22,Sg,Sg,,
-23-1,23,-,-,,
-23-2,23,?,?,,
-23-3,23,N,N,,
-23-4,23,Y,Y,,
-24-1,24,-,-,,
-24-2,24,--,--,,
-24-3,24,?,?,,
-24-4,24,N,N,,
-24-5,24,Y,Y,,
-25-1,25,-,-,,
-25-2,25,N,N,,
-25-3,25,Y,Y,,
-25-4,25,y,y,,
-25-5,25,~,~,,
-26-1,26,10,10,,
-26-2,26,12,12,,
-26-3,26,13,13,,
-26-4,26,15?,15?,,
-26-5,26,2,2,,
-26-6,26,3,3,,
-26-7,26,4,4,,
-26-8,26,5,5,,
-26-9,26,6,6,,
-26-10,26,?,?,,
-26-11,26,N,N,,
+2-1,2,0,0 points,white,cffffff
+2-2,2,1,1 point,yellow,cffff00
+2-3,2,2,2 points,orange,cff6600
+2-4,2,3,3 points,red,cdd0000
+3-1,3,0,0 points,white,cffffff
+3-2,3,1,1 point,yellow,cffff00
+3-3,3,2,2 points,orange,cff6600
+4-1,4,0,0 points,white,cffffff
+4-2,4,1,1 point,yellow,cffff00
+5-1,5,-,no PP (-),white,cffffff
+5-2,5,F,F,red,cdd0000
+5-3,5,NP,NP,blue,c0000dd
+5-4,5,NP?,NP (uncertain),light blue,c00ffff
+6-1,6,0,0 points,white,cffffff
+6-2,6,1,1 point,yellow,cffff00
+6-3,6,2,2 points,orange,cff6600
+6-4,6,?,uncertain,grey,ccccccc
+7-1,7,0,0 points,white,cffffff
+7-2,7,1,1 point,yellow,cffff00
+7-3,7,2,2 points,orange,cff6600
+8-1,8,0,0 points,white,cffffff
+8-2,8,1,1 point,yellow,cffff00
+8-3,8,2,2 points,orange,cff6600
+8-4,8,4,4 points,purple,c990099
+8-5,8,5,5 points,blue,c0000dd
+8-6,8,6,6 points,black,c000000
+9-1,9,0,0 points,white,cffffff
+9-2,9,1,1 point,yellow,cffff00
+9-3,9,2,2 points,orange,cff6600
+9-4,9,3,3 points,red,cdd0000
+9-5,9,4,4 points,purple,c990099
+9-6,9,5,5 points,blue,c0000dd
+9-7,9,6,6 points,black,c000000
+10-1,10,1,1 point,yellow,cffff00
+10-2,10,2,2 points,orange,cff6600
+10-3,10,3,3 points,red,cdd0000
+10-4,10,4,4 points,purple,c990099
+11-1,11,0,0 points,white,cffffff
+11-2,11,1,1 point,yellow,cffff00
+11-3,11,2,2 points,orange,cff6600
+11-4,11,3,3 points,red,cdd0000
+11-5,11,4,4 points,purple,c990099
+11-6,11,5,5 points,blue,c0000dd
+11-7,11,6,6 points,grey,ccccccc
+11-8,11,7,7 points,grey d,dcccccc
+11-9,11,8,8 points,black,c000000
+11-10,11,9,9 points,black d,d000000
+12-1,12,-1,-1 point,white d,cffffff
+12-2,12,0,0 points,white,dffffff
+12-3,12,1,1 point,yellow,cffff00
+12-4,12,2,2 points,orange,cff6600
+12-5,12,3,3 points,red,cdd0000
+12-6,12,4,4 points,purple,c990099
+12-7,12,5,5 points,blue,c0000dd
+12-8,12,6,6 points,grey,ccccccc
+12-9,12,7,7 points,grey d,dcccccc
+12-10,12,8,8 points,black,c000000
+13-1,13,0,0 points,white,cffffff
+13-2,13,1,1 point,yellow,cffff00
+13-3,13,2,2 points,orange,cff6600
+13-4,13,3,3 points,red,cdd0000
+13-5,13,4,4 points,purple,c990099
+14-1,14,-8,-8 points,white,dffffff
+14-2,14,-6,-6 points,white d,cffffff
+14-3,14,-5,-5 points,yellow,cffff00
+14-4,14,-4,-4 points,yellow d,dffff00
+14-5,14,-3,-3 points,orange,cff6600
+14-6,14,-2,-2 points,orange d,dff6600
+14-7,14,-1,-1 point,red,cdd0000
+14-8,14,0,0 points,red d,ddd0000
+14-9,14,1,1 point,purple,c990099
+14-10,14,2,2 points,purple d,d990099
+14-11,14,3,3 points,blue,c0000dd
+14-12,14,4,4 points,blue d,d0000dd
+14-13,14,5,5 points,grey,ccccccc
+14-14,14,6,6 points,grey d,dcccccc
+14-15,14,7,7 points,black,c000000
+14-16,14,8,8 points,black d,d000000
+14-17,14,9,9 points,black s,s000000
+15-1,15,2,2 points,white,dffffff
+15-2,15,3,3 points,white d,cffffff
+15-3,15,4,4 points,yellow,cffff00
+15-4,15,5,5 points,yellow d,dffff00
+15-5,15,6,6 points,orange,cff6600
+15-6,15,7,7 points,orange d,dff6600
+15-7,15,8,8 points,red,cdd0000
+15-8,15,9,9 points,red d,ddd0000
+15-9,15,10,10 points,purple,c990099
+15-10,15,11,11  points,purple d,d990099
+15-11,15,12,12 points,blue,c0000dd
+15-12,15,13,13 points,blue d,d0000dd
+15-13,15,14,14 points,grey,ccccccc
+15-14,15,15,15 points,grey d,dcccccc
+16-1,16,0,0,white,dffffff
+16-2,16,0,1,0.1,yellow,cffff00
+16-3,16,"0,13",0.13,yellow,cffff00
+16-4,16,"0,14",0.14,yellow,cffff00
+16-5,16,"0,17",0.17,yellow d,dffff00
+16-6,16,"0,2",0.2,yellow d,dffff00
+16-7,16,"0,25",0.25,yellow d,dffff00
+16-8,16,"0,29",0.29,orange,cff6600
+16-9,16,"0,33",0.33,orange,cff6600
+16-10,16,"0,38",0.38,orange,cff6600
+16-11,16,"0,4",0.4,orange d,dff6600
+16-12,16,"0,43",0.43,orange d,dff6600
+16-13,16,"0,44",0.44,orange d,dff6600
+16-14,16,"0,45",0.45,red,cdd0000
+16-15,16,"0,47",0.47,red,cdd0000
+16-16,16,"0,5",0.5,red,cdd0000
+16-17,16,"0,54",0.54,red d,ddd0000
+16-18,16,"0,55",0.55,red d,ddd0000
+16-19,16,"0,56",0.56,red d,ddd0000
+16-20,16,"0,57",0.57,purple,c990099
+16-21,16,"0,58",0.58,purple,c990099
+16-22,16,"0,6",0.6,purple,c990099
+16-23,16,"0,61",0.61,purple d,d990099
+16-24,16,"0,62",0.62,purple d,d990099
+16-25,16,"0,64",0.64,purple d,d990099
+16-26,16,"0,67",0.67,blue,c0000dd
+16-27,16,"0,69",0.69,blue,c0000dd
+16-28,16,"0,7",0.7,blue,c0000dd
+16-29,16,"0,73",0.73,blue d,d0000dd
+16-30,16,"0,75",0.75,blue d,d0000dd
+16-31,16,"0,78",0.78,blue d,d0000dd
+16-32,16,"0,8",0.8,grey,ccccccc
+16-33,16,"0,82",0.82,grey,ccccccc
+16-34,16,"0,88",0.88,grey d,dcccccc
+16-35,16,"0,89",0.89,grey d,dcccccc
+16-36,16,1,1,black,c000000
+19-1,19,3,tripartite,yellow,cffff00
+19-2,19,?,uncertain,grey,ccccccc
+19-3,19,A,A (accusative),blue,c0000dd
+19-4,19,A/c,A/c,light blue,c00ffff
+19-5,19,A/n,A/n,light blue,c00ffff
+19-6,19,A?,A?,light blue,c00ffff
+19-7,19,E,E (ergative),red,cdd0000
+19-8,19,E/A,E/A,orange,cff6600
+19-9,19,E/a,E/a,orange,cff6600
+19-10,19,E?,E?,orange,cff6600
+19-11,19,N,N (neutral),white,dffffff
+19-12,19,N/3,N/3,grey,ccccccc
+19-13,19,N/A,N/A,grey,ccccccc
+19-14,19,N/a,N/a,grey,ccccccc
+19-15,19,N7,N7,grey,ccccccc
+19-16,19,N?,N (uncertain),grey,ccccccc
+20-1,20,?,uncertain,grey,ccccccc
+20-2,20,A,A (accusative),blue,c0000dd
+20-3,20,A/E,A/E,light blue,c00ffff
+20-4,20,A/n,A/n,light blue,c00ffff
+20-5,20,A?,A?,light blue,c00ffff
+20-6,20,AIE,AIE,light blue,c00ffff
+20-7,20,E,E (ergative),red,cdd0000
+20-8,20,E/3,E/3,orange,cff6600
+20-9,20,E/A,E/A,orange,cff6600
+20-10,20,E/a,E/a,orange,cff6600
+20-11,20,N,N (neutral),white,dffffff
+20-12,20,N/A,N/A,grey,ccccccc
+20-13,20,N/a,N/a,grey,ccccccc
+20-14,20,N?,N?,grey,ccccccc
+21-1,21,3,tripartite,yellow,cffff00
+21-2,21,3?,tripartite (uncertain),yellow,cffff00
+21-3,21,A,A (accusative),blue,c0000dd
+21-4,21,A.,A.,light blue,c00ffff
+21-5,21,A/3,A/3,light blue,c00ffff
+21-6,21,A/H,A/H,light blue,c00ffff
+21-7,21,A/N,A/N,light blue,c00ffff
+21-8,21,A?,A?,light blue,c00ffff
+21-9,21,AtH,AtH,light blue,c00ffff
+21-10,21,E,E (ergative),red,cdd0000
+21-11,21,E/A,E/A,orange,cff6600
+21-12,21,E/a,E/a,orange,cff6600
+21-13,21,H,H,purple,c990099
+21-14,21,H/A,H/A,purple,c990099
+21-15,21,N,N (neutral),white,dffffff
+21-16,21,N/A,N/A,grey,ccccccc
+21-17,21,N/a,N/a,grey,ccccccc
+21-18,21,N/e,N/e,grey,ccccccc
+21-19,21,N?,N?,grey,ccccccc
+21-20,21,NIA,NIA,grey,ccccccc
+21-21,21,S,S,black,c000000
+21-22,21,S/A,S/A,black,c000000
+21-23,21,S/E,S/E,black,c000000
+21-24,21,S?,S?,black,c000000
+21-25,21,S?/E,S?/E,black,c000000
+22-1,22,3,tripartite,yellow,cffff00
+22-2,22,A,A (accusative),blue,c0000dd
+22-3,22,A?,A (uncertain),light blue,c00ffff
+22-4,22,E,E (ergative),red,cdd0000
+22-5,22,E?,E (uncertain),orange,cff6600
+22-6,22,H,H,purple,c990099
+22-7,22,N,N (neutral),white,dffffff
+22-8,22,N?,N (uncertain),grey,ccccccc
+22-9,22,S,S,black,c000000
+22-10,22,S?,S (uncertain),black,c000000
+22-11,22,Sg,Sg,black,c000000
+23-1,23,-,none,black,c000000
+23-2,23,?,uncertain,grey,ccccccc
+23-3,23,N,absent,white,dffffff
+23-4,23,Y,present,red,cdd0000
+24-1,24,-,none (-),black,c000000
+24-2,24,--,none (—),black d,d000000
+24-3,24,?,uncertain,grey,ccccccc
+24-4,24,N,absent,white,dffffff
+24-5,24,Y,present,red,cdd0000
+25-1,25,-,none,black,c000000
+25-2,25,N,absent,white,dffffff
+25-3,25,Y,present (Y),red,cdd0000
+25-4,25,y,present (y),orange,cff6600
+25-5,25,~,~,purple,c990099
+26-1,26,10,10 genders,blue s,s0000dd
+26-2,26,12,12 genders,black,c000000
+26-3,26,13,13 genders,black d,d000000
+26-4,26,15?,15? genders,black s,s000000
+26-5,26,2,2 genders,orange,cff6600
+26-6,26,3,3 genders,red,cdd0000
+26-7,26,4,4 genders,purple,c990099
+26-8,26,5,5 genders,blue,c0000dd
+26-9,26,6,6 genders,blue d,d0000dd
+26-10,26,?,uncertain,grey,ccccccc
+26-11,26,N,N,white,dffffff
 27-1,27,1,1,,
 27-2,27,2,2,,
 27-3,27,4,4,,
-27-4,27,?,?,,
-27-5,27,Y,Y,,
-27-6,27,y,y,,
-27-7,27,y.-,y.-,,
-28-1,28,?,?,,
-28-2,28,Y,Y,,
-29-1,29,Y,Y,,
-29-2,29,y,y,,
-30-1,30,Y,Y,,
-31-1,31,?,?,,
-31-2,31,Y,Y,,
-32-1,32,Y,Y,,
-33-1,33,Y,Y,,
-33-2,33,y,y,,
-34-1,34,?,?,,
-34-2,34,N,N,,
-34-3,34,Y,Y,,
-34x-1,34x,',',,
-34x-2,34x,10,10,,
-34x-3,34x,13,13,,
-34x-4,34x,15,15,,
-34x-5,34x,20,20,,
-34x-6,34x,26,26,,
-34x-7,34x,26+,26+,,
-34x-8,34x,29,29,,
-34x-9,34x,3,3,,
-34x-10,34x,50,50,,
-34x-11,34x,50+,50+,,
-34x-12,34x,51,51,,
-34x-13,34x,7,7,,
-34x-14,34x,9,9,,
-35-1,35,1,1,,
-35-2,35,1.5,1.5,,
-35-3,35,2,2,,
-35-4,35,2.5,2.5,,
-35-5,35,3,3,,
-35-6,35,FreeY,FreeY,,
-36-1,36,N,N,,
-36-2,36,N?,N?,,
-36-3,36,Y,Y,,
-37-1,37,N,N,,
-37-2,37,Y,Y,,
-38-1,38,N,N,,
-38-2,38,Y,Y,,
-38-3,38,y,y,,
-39-1,39,--,--,,
-39-2,39,?,?,,
-39-3,39,N,N,,
-39-4,39,Y,Y,,
-39-5,39,n/-,n/-,,
-39-6,39,n/a,n/a,,
-39-7,39,n/aY,n/aY,,
-40-1,40,?,?,,
-40-2,40,Y,Y,,
-41-1,41,Y,Y,,
-41-2,41,y,y,,
-42-1,42,?,?,,
-42-2,42,Y,Y,,
-43-1,43,',',,
-43-2,43,Y,Y,,
-44-1,44,'','',,
-44-2,44,Y,Y,,
+27-4,27,?,uncertain,grey,ccccccc
+27-5,27,Y,present (Y),red,cdd0000
+27-6,27,y,present (y),orange,cff6600
+27-7,27,y.-,present (y.-),orange,cff6600
+28-1,28,?,uncertain,grey,ccccccc
+28-2,28,Y,present,red,cdd0000
+29-1,29,Y,present (Y),red,cdd0000
+29-2,29,y,present (y),orange,cff6600
+30-1,30,Y,present,red,cdd0000
+31-1,31,?,uncertain,grey,ccccccc
+31-2,31,Y,present,red,cdd0000
+32-1,32,Y,present,red,cdd0000
+33-1,33,Y,present,red,cdd0000
+33-2,33,y,present,red,cdd0000
+34-1,34,?,uncertain,grey,ccccccc
+34-2,34,N,absent,white,dffffff
+34-3,34,Y,present,red,cdd0000
+34x-1,34x,',uncertain,grey,ccccccc
+34x-2,34x,10,10 classifiers,red,cdd0000
+34x-3,34x,13,13 classifiers,red d,ddd0000
+34x-4,34x,15,15 classifiers,purple,c990099
+34x-5,34x,20,20 classifiers,purple d,d990099
+34x-6,34x,26,26 classifiers,blue,c0000dd
+34x-7,34x,26,26+ classifiers,blue d,d0000dd
+34x-8,34x,29,29 classifiers,blue s,d0000dd
+34x-9,34x,3,3 classifiers,white,dffffff
+34x-10,34x,50,50 classifiers,black,c000000
+34x-11,34x,50,50+ classifiers,black d,d000000
+34x-12,34x,51,51 classifiers,black s,s000000
+34x-13,34x,7,7 classifiers,orange,cff6600
+34x-14,34x,9,9 classifiers,orange d,dff6600
+35-1,35,1,verb-initial,yellow,cffff00
+35-2,35,1.5,verb-initial/medial,orange,cff6600
+35-3,35,2,verb-medial,red,cdd0000
+35-4,35,2.5,verb-media-/final,purple,c990099
+35-5,35,3,verb-final,blue,c0000dd
+35-6,35,FreeY,free,white,dffffff
+36-1,36,N,absent,white,dffffff
+36-2,36,N?,absent (uncertain),grey,ccccccc
+36-3,36,Y,present,red,cdd0000
+37-1,37,N,absent,white,dffffff
+37-2,37,Y,present,red,cdd0000
+38-1,38,N,absent,white,dffffff
+38-2,38,Y,present (Y),red,cdd0000
+38-3,38,y,present (y),orange,cff6600
+39-1,39,--,none (—),grey,ccccccc
+39-2,39,?,uncertain,grey d,dcccccc
+39-3,39,N,absent,white,dffffff
+39-4,39,Y,present,red,cdd0000
+39-5,39,n/-,n/-,black d,d000000
+39-6,39,n/a,not applicable,black,c000000
+39-7,39,n/aY,n/aY,black s,s000000
+40-1,40,?,uncertain,grey,ccccccc
+40-2,40,Y,present,red,cdd0000
+41-1,41,Y,present (Y),red,cdd0000
+41-2,41,y,present (y),orange,cff6600
+42-1,42,?,uncertain,grey,ccccccc
+42-2,42,Y,present,red,cdd0000
+43-1,43,',uncertain,grey,ccccccc
+43-2,43,Y,present,red,cdd0000
+44-1,44,'',uncertain,grey,ccccccc
+44-2,44,Y,present,red,cdd0000
