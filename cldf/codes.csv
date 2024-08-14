@@ -234,8 +234,8 @@ ID,Parameter_ID,Name,Description,Map_Icon
 31-1,31,uncertain,,ccccccc
 31-2,31,present,,cdd0000
 32-1,32,present,,cdd0000
-33-1,33,present,,cdd0000
-33-2,33,present,,cdd0000
+33-1,33,present (Y),,cdd0000
+33-2,33,present (y),,cff6600
 34-1,34,uncertain,,ccccccc
 34-2,34,absent,,dffffff
 34-3,34,present,,cdd0000
