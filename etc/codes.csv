@@ -1,4 +1,4 @@
-ID,Parameter_ID,Old_Name,Name,Description,Map_Icon
+ID,Parameter_ID,Old_Name,Name,Colour,Map_Icon
 2-1,2,0,0 points,white,cffffff
 2-2,2,1,1 point,yellow,cffff00
 2-3,2,2,2 points,orange,cff6600
