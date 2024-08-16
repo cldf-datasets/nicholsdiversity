@@ -1,6 +1,5 @@
 import csv
 import pathlib
-import re
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
@@ -58,7 +57,8 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
+        Download files to the raw/ directory. You can use helpers methods of
+        `self.raw_dir`, e.g.
 
         >>> self.raw_dir.download(url, fname)
         """
@@ -88,7 +88,8 @@ class Dataset(BaseDataset):
 
         glottocodes = {lg['Glottocode'] for lg in etc_languages.values()}
         languoids = {
-            l.id: l for l in args.glottolog.api.languoids(ids=glottocodes)}
+            lang.id: lang
+            for lang in args.glottolog.api.languoids(ids=glottocodes)}
 
         # process
 
