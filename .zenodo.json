@@ -1,0 +1,38 @@
+{
+    "creators": [
+        {
+            "name": "Johanna Nichols"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johannes Englisch",
+            "type": "Other"
+        },
+        {
+            "name": "Martin Haspelmath",
+            "type": "Other"
+        }
+    ],
+    "title": "CLDF version for Nichols 1992: Linguistic diversity in space and time",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "crossgram"
+        }
+    ]
+}
