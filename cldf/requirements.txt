@@ -5,7 +5,7 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.7.4
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/nicholsdiversity@119a595e60afccdd9383940dde9849cfde412b40#egg=cldfbench_nicholsdiversity
+-e git+https://github.com/cldf-datasets/nicholsdiversity@472f9bd9c3eb1a8c30f6e92c399b8559a0afb763#egg=cldfbench_nicholsdiversity
 cldfcatalog==1.5.1
 cldfzenodo==2.1.1
 clldutils==3.22.2

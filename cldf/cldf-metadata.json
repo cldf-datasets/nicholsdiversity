@@ -6,7 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:identifier": "https://github.com/cldf-datasets/nicholsdiversity",
+    "dc:identifier": "https://crossgram.clld.org/contributions/nicholsdiversity",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "CLDF version for Nichols 1992: Linguistic diversity in space and time",
@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/nicholsdiversity",
             "rdf:type": "prov:Entity",
-            "dc:created": "119a595",
+            "dc:created": "472f9bd",
             "dc:title": "Repository"
         },
         {
