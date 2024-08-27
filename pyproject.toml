@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cldfbench_nicholsdiversity"
+dependencies = ["cldfbench[glottolog]"]
+dynamic = ["version"]
+
+[project.optional-dependencies]
+test = ["pytest-cldf"]
+
+[project.entry-points."cldfbench.dataset"]
+nicholsdiversity = "cldfbench_nicholsdiversity:Dataset"
+
+[tool.setuptools]
+py-modules = ["cldfbench_nicholsdiversity"]
+include-package-data = true
+
+[tool.pytest.ini_options]
+testpaths = ["test.py"]
+addopts = "--cldf-metadata=cldf/cldf-metadata.json"
