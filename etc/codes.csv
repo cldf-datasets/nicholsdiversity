@@ -245,11 +245,11 @@ ID,Parameter_ID,Old_Name,Name,Colour,Map_Icon
 34x-4,34x,15,15 classifiers,purple,c990099
 34x-5,34x,20,20 classifiers,purple d,d990099
 34x-6,34x,26,26 classifiers,blue,c0000dd
-34x-7,34x,26,26+ classifiers,blue d,d0000dd
+34x-7,34x,26+,26+ classifiers,blue d,d0000dd
 34x-8,34x,29,29 classifiers,blue s,d0000dd
 34x-9,34x,3,3 classifiers,white,dffffff
 34x-10,34x,50,50 classifiers,black,c000000
-34x-11,34x,50,50+ classifiers,black d,d000000
+34x-11,34x,50+,50+ classifiers,black d,d000000
 34x-12,34x,51,51 classifiers,black s,s000000
 34x-13,34x,7,7 classifiers,orange,cff6600
 34x-14,34x,9,9 classifiers,orange d,dff6600
