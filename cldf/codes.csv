@@ -244,9 +244,11 @@ ID,Parameter_ID,Name,Description,Map_Icon
 34x-3,34x,13 classifiers,,ddd0000
 34x-4,34x,15 classifiers,,c990099
 34x-5,34x,20 classifiers,,d990099
+34x-6,34x,26 classifiers,,c0000dd
 34x-7,34x,26+ classifiers,,d0000dd
 34x-8,34x,29 classifiers,,d0000dd
 34x-9,34x,3 classifiers,,dffffff
+34x-10,34x,50 classifiers,,c000000
 34x-11,34x,50+ classifiers,,d000000
 34x-12,34x,51 classifiers,,s000000
 34x-13,34x,7 classifiers,,cff6600

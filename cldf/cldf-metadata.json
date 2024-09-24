@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/nicholsdiversity",
             "rdf:type": "prov:Entity",
-            "dc:created": "472f9bd",
+            "dc:created": "v1.0-1-g0a99624",
             "dc:title": "Repository"
         },
         {
@@ -258,7 +258,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 283,
+            "dc:extent": 285,
             "tableSchema": {
                 "columns": [
                     {
